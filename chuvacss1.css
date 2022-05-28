@@ -1,0 +1,128 @@
+html,
+body {
+    overflow-x: hidden;
+}
+
+#leftNavbar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+#slaca {
+    background-color: ;
+    background-image: linear-gradient(#FFB354, #EE7A3A);
+    color: white;
+    font-size: xx-large;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#sideList,
+#sideList li {
+    border-bottom: 2px solid #E7E7E7;
+    text-indent: 30px;
+    line-height: 35px;
+}
+
+#main {
+    margin-top: 10px;
+    background-color: #FDF1EB;
+    margin-left: 200px;
+}
+
+#text {
+    font-size: x-large;
+}
+
+#button1 {
+    background-color: #FDF1EB;
+    border: 1px solid #CCCCCC;
+    padding-top: 7px;
+    padding-right: 18px;
+    padding-bottom: 7px;
+    padding-left: 18px;
+    font-size: large;
+    margin-top: 20px;
+}
+
+#wellcome {
+    flex-basis: auto;
+    display: flex;
+    margin-top: 20px;
+    text-align: right;
+}
+
+#title {
+    color: #ED7839;
+    size: 20px;
+    line-height: 25px;
+    font-weight: 700;
+    font-size: 23px;
+}
+
+#principal {
+    margin-left: 200px;
+}
+
+.option {
+    border: none;
+    text-align: right;
+    background: #ED7839;
+    color: white;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    border-radius: 5px 5px;
+}
+
+#title2 {
+    color: #ED7839;
+    font-weight: 500;
+}
+
+#cardTitle {
+    background-color: #FDF1EB;
+    border: solid 1px #ECECEC;
+    color: #4E4E4E
+}
+
+#cardBody {
+    background-color: #ffffff;
+    border: solid 1px #ECECEC;
+}
+
+#seeLess {
+    display: none;
+}
+
+#btnReadMore {
+    color: #ED7839;
+    border: none;
+    background-color: white;
+}
+
+#topicTitle {
+    color: #ED7839;
+    text-align: center;
+}
+
+#enviar {
+    background-image: linear-gradient(#FFB354, #EE7A3A);
+    color: white;
+}
+
+#comment {
+    color: #ED7839;
+}
+
+#name {
+    font-size: small;
+}
